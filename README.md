@@ -1,6 +1,9 @@
 # Modern React Portfolio 🚀
 
 ![Portfolio Screenshot](https://github.com/aneesh-acharyeah/react-portfolio/blob/main/1.png) 
+![Portfolio Screenshot](https://github.com/aneesh-acharyeah/react-portfolio/blob/main/2.png) 
+![Portfolio Screenshot](https://github.com/aneesh-acharyeah/react-portfolio/blob/main/3.png) 
+![Portfolio Screenshot](https://github.com/aneesh-acharyeah/react-portfolio/blob/main/4.png) 
 
 A sleek, single-page developer portfolio built with React and Framer Motion, showcasing projects with modern UI/UX.
 
